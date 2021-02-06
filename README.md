@@ -8,9 +8,10 @@
 
 ##### 💬 Ask me about
 
-- 7 months of backend development experience
+- 7 months of Nodejs Backend Development Experience
 - Bachelor of Software Engineering
-- 2 years of Javascript experience
+- 2 years of Javascript & Typescript Experience 
+- Little experience with Python,C/C++,Java,Kotlin,Tensorflow with Mask-RCNN, MariaDB and MongoDB
 
 ##### 📫 How to reach me
 
