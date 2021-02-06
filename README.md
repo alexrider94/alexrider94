@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrider94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 <div align=center>
 
