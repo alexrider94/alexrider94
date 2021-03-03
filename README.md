@@ -2,7 +2,7 @@
 
 ##### 🌱 I’m currently learning
 
-- Flutter With Dart Language.
+- Angular&Nest with Project
 - Algorithms with Javacsript.
 - Refactoring method.
 
