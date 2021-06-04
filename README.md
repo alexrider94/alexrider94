@@ -2,7 +2,7 @@
 
 ##### 🌱 I’m currently learning
 
-- Angular&Nest with Project
+- ReactJS
 - Algorithms with Javascript.
 - Refactoring method.
 
