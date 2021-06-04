@@ -24,13 +24,6 @@
 - Project site: http://www.alexrider94.tk/
 
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexrider94%2Fhit-counter&count_bg=%237A3DC8&title_bg=%23AD80DB&icon=ko-fi.svg&icon_color=%235556E5&title=hello+there%21&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
-
-
 <!--
 **alexrider94/alexrider94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
