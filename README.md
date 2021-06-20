@@ -1,8 +1,10 @@
 ##### 🌱 I’m currently learning
 
 - Javascript & Typescript
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrider94&layout=compact&theme=radical)](https://github.com/alexrider94/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrider94&layout=compact&theme=radical)](https://github.com/alexrider94/github-readme-stats)
 - Algorithms with Javascript.
+
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=phila1)](https://solved.ac/phila1)
 - Refactoring method.
 
