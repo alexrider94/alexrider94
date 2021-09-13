@@ -12,7 +12,7 @@
 
 ##### 💬 Ask me about
 
-- 7 months of Nodejs Backend Development Experience
+- 3 months of React Developmet & 7 months of Nodejs Backend Development Experience
 - Bachelor of Software Engineering
 - Little experience with Python,C/C++,Java,Kotlin,Tensorflow with Mask-RCNN, MariaDB and MongoDB
 
