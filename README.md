@@ -26,4 +26,4 @@
 
 ##### 🔭 I’m currently working on
 - Rise of React
-- [진행할 프로젝트](https://bubbly-bone-3ef.notion.site/Project-List-4dd52ba970134d778b3182a0c39a0ce7)
+<!-- - [진행할 프로젝트](https://bubbly-bone-3ef.notion.site/Project-List-4dd52ba970134d778b3182a0c39a0ce7) -->
