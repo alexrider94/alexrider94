@@ -12,15 +12,14 @@
 
 ##### 💬 Ask me about
 
-- 3 months of React Development & 7 months of Nodejs Backend Development Experience
 - Bachelor of Software Engineering
-- Little experience with Python,C/C++,Java,Kotlin,Tensorflow with Mask-RCNN, MariaDB and MongoDB
+- Tech : React, React-native, nodeJS, graphQL
 
 ***
 
 ##### 📫 How to reach me
 
-- Email: phila1@naver.com
+- Email: phila630@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrider94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
